@@ -29,6 +29,20 @@ const projects = [
     tags: ['React', 'Node', 'Docker', 'Express','MongoDB'],
     github: 'https://github.com/06bruce/7-Mountains',
     demo: 'https://7mountains.vercel.app'
+  },
+  {
+    title: "Poetic Studio",
+    description: "PoeticVerse ✨📜 A fun and interactive poetry website built with React + Vite. Generate poems with a click, explore famous and hidden gems, and see each poem beautifully displayed on its own styled card. Perfect for poetry lovers and creative minds! 💡🌸",
+    tags: ['React', 'Vite', 'Tailwind CSS', 'TypeScript', 'Node', 'Express', 'MongoDB', 'Docker'],
+    github: "https://github.com/06bruce/poetic-client",
+    demo: "https://npoetics.vercel.app"
+  },
+  {
+    title: "Obsidian Store",
+    description: "🎨 Design-Focused A design-driven fashion storefront combining modern UI, smooth animations, and interactive 3D elements for a premium web experience.",
+    tags: ['React', 'Vite', 'Tailwind CSS', 'TypeScript'],
+    github: "https://github.com/06bruce/obsidian-store",
+    demo: "https://obsidian-store-jh9krfaeo-nshuti-s-bruce-s-projects.vercel.app/"
   }
 ];
 
