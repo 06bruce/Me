@@ -4,8 +4,8 @@ import { FiGithub, FiExternalLink } from 'react-icons/fi';
 const projects = [
   {
     title: 'Full Ecommerce Online Shop *IN Development* ',
-    description: 'A full-stack Web Application - Ecommerce - built with Laravel and Tailwind CSS.',
-    tags: ['Laravel', 'Tailwind CSS', 'MySQL'],
+    description: 'A full-stack Web Application - Ecommerce - built with Nextjs and Tailwind CSS.',
+    tags: ['Typescript', 'Tailwind CSS', 'MongoDB', 'NEXTAuth'],
     github: 'https://github.com/06bruce/Ecommerce',
     demo: 'https://smartdotcomelectronics.com'
   },
