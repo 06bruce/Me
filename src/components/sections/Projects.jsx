@@ -3,7 +3,7 @@ import { FiGithub, FiExternalLink } from 'react-icons/fi';
 
 const projects = [
   {
-    title: 'Full Ecommerce Online Shop',
+    title: 'Full Ecommerce Online Shop *IN Development* ',
     description: 'A full-stack Web Application - Ecommerce - built with Laravel and Tailwind CSS.',
     tags: ['Laravel', 'Tailwind CSS', 'MySQL'],
     github: 'https://github.com/06bruce/Ecommerce',
@@ -17,7 +17,7 @@ const projects = [
     demo: 'https://maternalhub.vercel.app'
   },
   {
-    title: 'Web3 Military Registration',
+    title: 'Web3 Military Registration *Private Project* ' ,
     description: 'Blockchain-based military registration system using Solidity and Web3.js.',
     tags: ['Solidity', 'Web3.js', 'React'],
     github: 'Private Project',
